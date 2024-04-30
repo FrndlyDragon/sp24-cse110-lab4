@@ -1,0 +1,2 @@
+1. num1 and num2 are read as strings resulting in the result variable becoming a string and the addition doing a concatenation between the two variables.
+2. I would just convert num1 and num2 into numbers and then it will work as intended.
